@@ -1,4 +1,3 @@
 #!/bin/bash
 
-# Script that returns the current server status
-
+cat /workspaces/gisc605
