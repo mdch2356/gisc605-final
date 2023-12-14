@@ -2,6 +2,6 @@
 
 # Script that returns the current server status
 
-touch gisc605=$(MariaDelCarmen.Hernandez01)
+function gisc605
 
-echo $gisc605
+echo "MariaDelCarmen.Hernandez01@student.csulb.edu"
